@@ -1,3 +1,10 @@
+---
+Title: "deskHAT"
+Author: "Harshit Thota (Harsh)"
+Description: "The deskHAT is a compact hardware add-on combining processing, touch input, and connectivity seamlessly"
+Created On: "9/2/2025"
+---
+
 # Sep 2, 2025
 ## My Inspiration
 For a year or so now, I've tried many digital systems (in Notion), but only a few worked. I would use it for a week max. and never visit the system again. That's why I decided I want to build a device that sits on your desk acting as your personal assistant. An all-in-one device; where you can track tasks, start focus sessions, and track habits, and ofc an alarm clock.
